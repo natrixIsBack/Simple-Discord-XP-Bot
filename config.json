@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "!",
+  "xpPerMessage": 10,
+  "levelUpXp": 100,
+  "credits": "github.com/natrixIsBack"
+}
