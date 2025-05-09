@@ -12,7 +12,7 @@ A simple Discord bot that awards XP to users for each message they send. Users l
 
 1. Clone the repository:
 git clone https://github.com/yourusername/discord-xp-bot
-cd discord-xp-bot
+
 
 2. Install dependencies:
 npm install
