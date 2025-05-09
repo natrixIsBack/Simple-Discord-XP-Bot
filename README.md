@@ -1,2 +1,39 @@
-# Simple-Discord-XP-Bot
-A simple yet effective Discord bot built with the latest versions of discord.js (v14) and Node.js. This bot implements an XP and leveling system, rewarding users with experience points (XP) for each message they send. Upon reaching certain XP thresholds, users level up, and the bot notifies them of their new level.
+# Discord XP Bot
+
+A simple Discord bot that awards XP to users for each message they send. Users level up upon reaching certain XP thresholds.
+
+## Features
+
+- Awards XP for each message.
+- Notifies users when they level up.
+- `!rank` command to view current level and XP.
+
+## Setup
+
+1. Clone the repository:
+git clone https://github.com/yourusername/discord-xp-bot.git
+cd discord-xp-bot
+
+2. Install dependencies:
+npm install
+
+3. Configure the bot:
+- Rename `config.json.example` to `config.json`.
+- Replace `"YOUR_BOT_TOKEN"` with your Discord bot token.
+
+4. Run the bot:
+node index.js
+
+## Commands
+
+- `!rank`: Displays your current level and XP.
+
+## Requirements
+
+- Node.js v16.6.0 or higher
+- Discord.js v14
+
+
+
+
+ 
